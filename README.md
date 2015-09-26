@@ -7,3 +7,4 @@ My answers are be written in both ES3/5 and ES6 (ES-2015)
 2. Write two binary functions, 'add' and 'mul', that take two numbers and return their sum and product.
 3. Write a function that takes an argument and returns a function that returns that argument.
 4. Write a function that adds from two invocations.
+5. Write a function that takes a binary function, and makes it callable with two invocations.
