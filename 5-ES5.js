@@ -7,6 +7,6 @@ function applyf(fn) {
   return function(x) {
     return function(y) {
       return fn(x,y);
-    }
-  }
+    };
+  };
 }
