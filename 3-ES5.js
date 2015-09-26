@@ -6,5 +6,5 @@
 function identityf(arg) {
   return function() {
     return arg;
-  }
+  };
 }
