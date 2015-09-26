@@ -8,3 +8,4 @@ My answers are be written in both ES3/5 and ES6 (ES-2015)
 3. Write a function that takes an argument and returns a function that returns that argument.
 4. Write a function that adds from two invocations.
 5. Write a function that takes a binary function, and makes it callable with two invocations.
+6. Write a function that takes a function and an argument, and returns a function that can supply a second argument.
