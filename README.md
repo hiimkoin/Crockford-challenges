@@ -5,3 +5,4 @@ My answers are be written in both ES3/5 and ES6 (ES-2015)
 
 1. Write a function that takes an argument and returns that argument.
 2. Write two binary functions, 'add' and 'mul', that take two numbers and return their sum and product.
+3. Write a function that takes an argument and returns a function that returns that argument
