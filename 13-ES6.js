@@ -9,4 +9,4 @@ const once =
       const func = fn;
       fn = null;
       return func.apply(this, args);
-    }
+    };
