@@ -11,7 +11,7 @@ My answers are be written in both ES3/5 and ES6 (ES-2015)
 6. Write a function that takes a function and an argument, and returns a function that can supply a second argument.
 7. Without writing any new functions, show three ways to create the `inc` function. Using functions from the previous six problems.
 8. Write `methodize`, a function that converts a binary function to a method.
-9. Write `demethodize`, a function that converts a method into a binar function.
+9. Write `demethodize`, a function that converts a method into a binary function.
 10. Write a function `twice` that takes a binary function and returns a unary function, that passes it's argument to the binary function twice.
 11. Write a function `composeu` that takes two unary functions and returns a unary function that calls them both.
 12. Write a function `composeb` thst takes two binary functions and returns a function that calls them both.
