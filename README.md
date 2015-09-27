@@ -17,4 +17,4 @@ My answers are be written in both ES3/5 and ES6 (ES-2015)
 12. Write a function `composeb` thst takes two binary functions and returns a function that calls them both.
 13. Write a function that allows another function to be only called once.
 14. Write a factory function that returns two functions that implement an up/down counter.
-15. Make a revocable function that takes a nice function and returns a `revoke` function that denies access to the nice function, and an `invoke` function that can invoke the nice function untill it is revoked.
+15. Make a revocable function that takes a nice function and returns a `revoke` function that denies access to the nice function, and an `invoke` function that can invoke the nice function until it is revoked.
