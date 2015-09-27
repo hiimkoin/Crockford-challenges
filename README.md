@@ -15,3 +15,4 @@ My answers are be written in both ES3/5 and ES6 (ES-2015)
 10. Write a function 'twice' that takes a binary function and returns a unary function, that passes it's argument to the binary function twice.
 11. Write a function 'composeu' that takes two unary functions and returns a unary function that calls them both.
 12. Write a function 'composeb' thst takes two binary functions and returns a function that calls them both
+13. Write a function that allows another function to be only called once
