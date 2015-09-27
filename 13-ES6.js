@@ -5,7 +5,7 @@
 
 const once =
   fn => 
-    (...args) => {
+    function(...args) {
       const func = fn;
       fn = null;
       return func.apply(this, args);
