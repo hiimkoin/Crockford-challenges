@@ -7,4 +7,4 @@ const counterf = x => {
       return x -= 1;
     }
   };
-}
+};
